@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://clem_2020:<password>@contactkeeper-seqx5.mongodb.net/test?retryWrites=true&w=majority"
+}
