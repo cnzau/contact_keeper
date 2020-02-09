@@ -6,9 +6,9 @@ import {
   ADD_CONTACT,
   DELETE_CONTACT,
   SETCURRENT,
-  CLEAR_CURRENTT,
-  UPDATE_CONTACTCT,
-  FILTER_CONTACTCT,
+  CLEAR_CURRENT,
+  UPDATE_CONTACT,
+  FILTER_CONTACT,
   CLEAR_FILTER
 } from '../types';
 
@@ -52,7 +52,7 @@ const ContactState = props => {
 
   // Delete Contact
 
-  // Set Current Contatct
+  // Set Current Contact
 
   // Clear Current Contact
 
